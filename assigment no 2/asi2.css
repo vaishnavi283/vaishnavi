@@ -1,0 +1,64 @@
+.main{
+  height: 500px;
+  width: 40%;
+  border: 3px solid black;
+  background-color: azure;
+  box-sizing: border-box;
+  box-shadow: 3px 5px 3px rgb(32, 30, 30);
+  margin: 90px 400px;
+}
+.heading{
+  text-align: center;
+  text-shadow: 2px 8px 3px rgb(188, 161, 161);
+}
+.email{
+  margin: 20px;
+  margin-left: 55px;
+  height: 25px;
+  width: 400px;
+  align-items: center;
+  border-radius: 8px;
+}
+.password{
+  margin: 20px;
+  margin-left: 55px;
+  height: 25px;
+  width: 400px;
+  align-items: center;
+  border-radius: 8px;
+}
+.cb{
+  margin-left: 60px;
+  border: 2px solid black;
+}
+.passhow{
+  margin-top: -20px;
+  margin-left: 80px;
+}
+.sinbtn{
+  border: 2px solid black;
+  height: 25px;
+  width: 120px;
+  align-items: center;
+  text-align: center;
+  margin-left: 35%;
+  margin-top: 35px;
+  border-radius: 10px;
+  background-color: bisque;
+}
+.sinbtn:hover{
+  cursor: pointer;
+  background-color: orangered;
+  color: black;
+  box-shadow: 3px 5px 3px rgb(60, 44, 60);
+}
+.for{
+  margin-left: 32%;
+}
+.dh{
+  margin-left: 30%;
+}
+body{
+  background-color: rgb(226, 196, 244);
+  background-image: url("../download.jpg");
+}
