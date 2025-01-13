@@ -1,0 +1,290 @@
+
+.red{
+    margin-top: 20px;
+    width: 50%;
+    height: 40px;
+    background-color: red;
+    display: flex;
+}
+.blue{
+    width: 50%;
+    height: 40px;
+    background-color:blue;
+    display: flex;
+    margin-top: -40px;
+    margin-left: 50%;
+}
+.green{
+    margin-top: 20px;
+    width: 90%;
+    height: 40px;
+    background-color:green;
+    display: flex;
+}
+.blue2{
+    width: 10%;
+    height: 40px;
+    background-color:blue;
+    display: flex;
+    margin-top: -40px;
+    margin-left: 90%;
+}
+.red3{
+    display: flex;
+    background-color:red;
+    width: 5%;
+    height: 40px;
+}
+.green3{
+    display: flex;
+    background-color: green;
+    width: 95%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 5%;
+}
+.blue4{
+    display: flex;
+    background-color: blue;
+    width: 5%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 95%;
+}
+.red5{
+    display: flex;
+    background-color: red;
+    width:95%;
+    height: 40px;
+}
+.blue5{
+    display: flex;
+    background-color:blue;
+    width: 5%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left:95%;
+}
+.green4{
+    display: flex;
+    background-color:green;
+    width:100%;
+    margin-right:5%;
+    margin-top:-10px;
+    height: 40px;
+    }
+.red6{
+    display: flex;
+    background-color:red;
+    width:2%;
+    margin-left:48%;
+    margin-top:-30px;
+    height: 25px;
+}
+.red4{
+    display: flex;
+    background-color: red;
+    width: 95%;
+    height: 40px;
+    margin-top: -10px;
+    
+}
+.blue4{
+    display: flex;
+    background-color: blue;
+    width: 5%;
+    height: 40px;
+    margin-top: -40px;
+    margin-right: -5%;
+}
+.red2{
+
+display:flex;
+background-color: red;
+width: 5%;
+height: 40px;
+margin-top: -10px;
+
+}
+.blue7{
+display: flex;
+background-color: blue;
+width: 95%;
+height: 40px;
+margin-top: -40px;
+margin-left:5%;
+}
+.green2{
+display: flex;
+background-color: green;
+width: 95%;
+height: 20px;
+margin-top: -30px;
+margin-left:5%;
+}
+.red7{
+    display: flex;
+    background-color:red;
+    width: 100%;
+    margin-right:5%;
+    margin-top:-10px;
+    height: 40px;
+    }
+.blue6{
+    display: flex;
+    background-color:blue;
+    width:4%;
+    margin-left:48%;
+    margin-top:-40px;
+    height: 40px;
+}
+.yellow1{
+    width: 5%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: yellow;
+    margin-left:0.1% ;
+    display: flex;
+}
+.green5{
+    width: 18.75%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left:5%;
+    display: flex;
+    background-color: green;
+}
+.yellow2{
+    width: 5%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left:23.75%;
+    display: flex;
+    background-color: yellow;
+}
+.green6{
+    width: 18.75%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left:28.75%;
+    display: flex;
+    background-color: green;
+}
+.yellow3{
+    width: 5%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left:47.5%;
+    display: flex;
+    background-color: yellow;
+}
+.green7{
+    width: 18.75%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left:52.5%;
+    display: flex;
+    background-color: green;
+}
+.yellow4{
+    width: 5%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left:71.25%;
+    display: flex;
+    background-color: yellow;
+}
+.green8{
+    width: 18.75%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 76.25%;
+    display: flex;
+    background-color: green;
+}
+.yellow5{
+    width: 5%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left: 95%;
+    display: flex;
+    background-color: yellow;
+}
+.yellow6{
+    width: 18%;
+    height: 40px;
+    display: flex;
+    background-color: yellow;
+}
+.green9{
+    width: 2%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 18%;
+    display: flex;
+    background-color: green;
+}
+.yellow7{
+    width: 18%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left: 20%;
+    display: flex;
+    background-color: yellow;
+}
+.green10{
+    width: 2%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 38%;
+    display: flex;
+    background-color: green;
+}
+.yellow8{
+    width: 18%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left: 40%;
+    display: flex;
+    background-color: yellow;
+}
+.green11{
+    width: 2%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 58%;
+    display: flex;
+    background-color: green;
+}
+.yellow9{
+    width: 18%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left: 60%;
+    display: flex;
+    background-color: yellow;
+}
+.green12{
+    width: 2%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 78%;
+    display: flex;
+    background-color: green;
+}
+.yellow10{
+    width: 18%;
+    height: 40px;
+    margin-top:-40px;
+    margin-left: 80%;
+    display: flex;
+    background-color: yellow;
+}
+.green13s{
+    width: 2%;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 98%;
+    display: flex;
+    background-color: green;
+}
